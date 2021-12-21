@@ -1,4 +1,4 @@
-package HelloWorld;
+package com.mars.returnship;
 
 public class Helloworld {
 
