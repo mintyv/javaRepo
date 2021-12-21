@@ -1,6 +1,6 @@
-package com.mars.returnship;
+package com.training.mars;
 
-public class Helloworld {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
@@ -8,6 +8,3 @@ public class Helloworld {
 	}
 
 }
-
-
-
