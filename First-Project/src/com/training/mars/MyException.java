@@ -3,9 +3,12 @@ package com.training.mars;
 public class MyException extends Exception{
 
 	
-	public
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
-
+	public MyException(String msg) {
+		super(msg);
 	}
-
 }

@@ -10,7 +10,7 @@ public class Employee {
 	public Employee() {
 	}
 	
-	public Employee(String name, double Salary, String empID, String department) {
+	public Employee(String name, String department, String empId, double salary) {
 		this.department = department;
 		this.empId = empId;
 		this.name = name;

@@ -10,7 +10,7 @@ public class EmployeeInfo {
 		emp1.setName("John");
 		emp1.setSalary(2000.12);
 		
-		Employee emp2 = new Employee("Kevin", 4300.09, "E102", "Marketing");
+		Employee emp2 = new Employee("Kevin", "Marketing", "E102", 4300.09);
 		
 
 		System.out.println(emp1.getEmployeeInfo());

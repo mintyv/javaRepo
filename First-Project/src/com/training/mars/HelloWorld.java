@@ -34,6 +34,10 @@ public class HelloWorld {
 			else if (tries > secretNum) {
 				System.out.println("Lower");
 			}
+			key.close();
 		}
+	
 			}
+	
+	
 		}

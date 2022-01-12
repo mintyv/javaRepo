@@ -28,7 +28,7 @@ public class DigitNumber {
         System.out.println("Sum of all Digits: "+ sum);
         }
       
-        
+        sc.close();
         }}
         
         
